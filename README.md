@@ -9,4 +9,6 @@ All my contributions nowadays are related to learning new languages, new methods
 
 - 🌱 I’m currently learning new technologies linked to my personal goals on achieving a wide and better knowledge on the path of becoming a full stack developer. I'm having contact with Java 8+, Kotlin, MQ tools and systems, microservices (using Spring, Java and Cloud based structures).
 
+- 👌 Working hard on studying and applying Agile Methods, specially Scrum and Kanban based techniques.
+
 - 📫 How to reach me: ceduardo.roque@gmail.com
